@@ -1,0 +1,14 @@
+C:\Users\franc\Desktop\LabDotnet\ScannerExpert2\bin\Debug\net10.0\ScannerExpert2.exe
+C:\Users\franc\Desktop\LabDotnet\ScannerExpert2\bin\Debug\net10.0\ScannerExpert2.deps.json
+C:\Users\franc\Desktop\LabDotnet\ScannerExpert2\bin\Debug\net10.0\ScannerExpert2.runtimeconfig.json
+C:\Users\franc\Desktop\LabDotnet\ScannerExpert2\bin\Debug\net10.0\ScannerExpert2.dll
+C:\Users\franc\Desktop\LabDotnet\ScannerExpert2\bin\Debug\net10.0\ScannerExpert2.pdb
+C:\Users\franc\Desktop\LabDotnet\ScannerExpert2\obj\Debug\net10.0\ScannerExpert2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Desktop\LabDotnet\ScannerExpert2\obj\Debug\net10.0\ScannerExpert2.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\LabDotnet\ScannerExpert2\obj\Debug\net10.0\ScannerExpert2.AssemblyInfo.cs
+C:\Users\franc\Desktop\LabDotnet\ScannerExpert2\obj\Debug\net10.0\ScannerExpert2.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\LabDotnet\ScannerExpert2\obj\Debug\net10.0\ScannerExpert2.dll
+C:\Users\franc\Desktop\LabDotnet\ScannerExpert2\obj\Debug\net10.0\refint\ScannerExpert2.dll
+C:\Users\franc\Desktop\LabDotnet\ScannerExpert2\obj\Debug\net10.0\ScannerExpert2.pdb
+C:\Users\franc\Desktop\LabDotnet\ScannerExpert2\obj\Debug\net10.0\ScannerExpert2.genruntimeconfig.cache
+C:\Users\franc\Desktop\LabDotnet\ScannerExpert2\obj\Debug\net10.0\ref\ScannerExpert2.dll
